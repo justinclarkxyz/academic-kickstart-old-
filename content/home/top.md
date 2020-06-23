@@ -50,9 +50,9 @@ subtitle = "For opinions, reviews, and discussions relating to Integrative psych
  css_class = ""
 +++
 
-Welcome to my site.
 
 Part blog, part extension of my thinking, and part unspecified.
+
 
 ## If you are looking for therapy or supervision
 Head over to [Therapy Nottingham](https://www.therapynotitngham.co.uk) where you can read more baout me as a therapist, how I work, and book an assessment session online.
