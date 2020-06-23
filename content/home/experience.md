@@ -20,15 +20,6 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Psychotherapist"
-  company = "Therapy Nottingham"
-  company_url = "www.therapynottingham.co.uk"
-  location = "Nottingham, UK"
-  date_start = "2013-09-01"
-  date_end = ""
-  description = """Counselling and psychotherapy in private practice."""
-
-[[experience]]
   title = "Safe Time Service Manager"
   company = "The Children's Society"
   company_url = ""
@@ -48,4 +39,13 @@ date_format = "Jan 2006"
   date_end = "2017-07-01"
   description = """
   """
+  
+  [[experience]]
+  title = "Psychotherapist"
+  company = "Therapy Nottingham"
+  company_url = "www.therapynottingham.co.uk"
+  location = "Nottingham, UK"
+  date_start = "2013-09-01"
+  date_end = ""
+  description = """Counselling and psychotherapy in private practice."""
 +++
