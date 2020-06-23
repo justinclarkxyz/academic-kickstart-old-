@@ -100,7 +100,7 @@ address = {street = "Knight and Whitehall House, 4 Carlton Street", city = "Noti
 coordinates = {latitude = "52.9534", longitude = "-1.1452"}
 
 # Directions for visitors to locate you.
-directions = "Office E, stairs up to first floor"
+directions = "Appointments only, Office E, buzz for entry, stairs up to first floor."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -113,7 +113,8 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/justinclarkxyz"},
+  {icon = "twitter", icon_pack = "fab", name = "DM me", link = "https://twitter.com/justinclarkxyz"},
+  {icon = "comment-dots", icon_pack = "fab", name = "Signal me", link = "https://signal.org/download/"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
