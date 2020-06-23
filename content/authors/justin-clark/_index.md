@@ -5,10 +5,10 @@ avatar_filename: avatar
 bio: I am interested in how we come to be who we are, how we adapt to our early
   environment, and the lasting impact this can have.
 social:
-  - link: "# contact"
-    icon_pack: ai
+  - link: "#contact"
+    icon_pack: fas
     icon: envelope
-  - icon_pack: fab
+  - icon_pack: fas
     link: https://twitter.com/justinclarkxyz
     icon: twitter
 education:
