@@ -8,7 +8,7 @@ social:
   - link: "#contact"
     icon_pack: fas
     icon: envelope
-  - icon_pack: fas
+  - icon_pack: fab
     link: https://twitter.com/justinclarkxyz
     icon: twitter
 education:
