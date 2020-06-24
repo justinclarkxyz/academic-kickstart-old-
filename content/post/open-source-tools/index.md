@@ -5,7 +5,7 @@ date: 2020-06-23T21:06:47.446Z
 draft: false
 featured: false
 authors:
-  - ""
+  - justin-clark
 tags:
   - plaintext
   - zettlr
