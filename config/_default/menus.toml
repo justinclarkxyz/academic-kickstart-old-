@@ -5,18 +5,23 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "https://www.justinclark.xyz"
   weight = 10
 
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = "https://www.justinclark.xyz#posts"
   weight = 20
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "https://www.justinclark.xyz#contact"
   weight = 60
+  
+[[main]]
+  name = "About"
+  url = "https://www.justinclark.xyz#about"
+  weight = 100 
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
