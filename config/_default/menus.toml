@@ -5,22 +5,22 @@
 
 [[main]]
   name = "Home"
-  url = "https://www.justinclark.xyz"
+  url = "#top
   weight = 10
 
 [[main]]
   name = "Posts"
-  url = "https://www.justinclark.xyz#posts"
+  url = "#posts"
   weight = 20
 
 [[main]]
   name = "Contact"
-  url = "https://www.justinclark.xyz#contact"
+  url = "#contact"
   weight = 60
   
 [[main]]
   name = "About"
-  url = "https://www.justinclark.xyz#about"
+  url = "#about"
   weight = 100 
 
 # Link to a PDF of your resume/CV from the menu.
