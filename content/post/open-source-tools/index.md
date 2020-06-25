@@ -14,9 +14,10 @@ categories:
   - software
   - productivity
 image:
-  filename: books-1800x725.png
+  filename: featured.png
   focal_point: Center
   preview_only: true
+  alt_text: pile of books with pencils
 ---
 It might be surprising that as a psychotherapist, I'm writing about open-source software.  But there are a few tools that I am very grateful for, as they contribute daily to making my life less stressful.  Of course, these are not therapy-specific, and have a much wider range of applications in all cases.  I'm a Mac user, so everything here is Mac-centric.  These are not in-depth reviews, although they may come later, so consider them as recommendations.
 
