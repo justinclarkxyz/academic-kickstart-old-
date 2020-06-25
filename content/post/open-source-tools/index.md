@@ -1,5 +1,5 @@
 ---
-title: Open Source tools
+title: Open Source tools (for therapists)
 subtitle: The things that make my life easier
 date: 2020-06-23T21:06:47.446Z
 draft: false
@@ -18,7 +18,7 @@ image:
   focal_point: Center
   preview_only: true
 ---
-It might be surprising that as a psychotherapist, I'm writing about open-source software.  But there are a few tools that I am very grateful for, as they contribute daily to making my life less stressful.  I'm a Mac user, so everything here is Mac-centric.  These are not in-depth reviews, although they may come later, so consider them as recommendations.
+It might be surprising that as a psychotherapist, I'm writing about open-source software.  But there are a few tools that I am very grateful for, as they contribute daily to making my life less stressful.  Of course, these are not therapy-specific, and have a much wider range of applications in all cases.  I'm a Mac user, so everything here is Mac-centric.  These are not in-depth reviews, although they may come later, so consider them as recommendations.
 
 ## Zotero
 
@@ -56,4 +56,4 @@ Zettlr also provides a range of export options, creating HTML, PDF, and Word for
 
 ![Inkscape logo](inkscape_logo_256x256.png)
 
-When it comes to producing graphics with any complexity, [Inkscape](https://inkscape.org) is my goto.  Targetted at vector graphics (of course you can also export in a wide range of image formats) Inscape is feature-rich and relatively easy to use.  My needs are modest, much like my graphic design skills, but a look at the [gallery](https://inkscape.org/gallery/) indicates the incredible capabilities.
+When it comes to producing graphics with any complexity, [Inkscape](https://inkscape.org) is my goto.  Targetted at vector graphics (of course you can also export in a wide range of image formats) Inscape is feature-rich and relatively easy to use.  My needs for simple graphics and diagrams are relatively modest, much like my graphic design skills, but a look at the [gallery](https://inkscape.org/gallery/) indicates the incredible capabilities that others might benefit from.
