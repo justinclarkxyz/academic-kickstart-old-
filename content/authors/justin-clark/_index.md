@@ -1,7 +1,7 @@
 ---
 title: Justin Clark
 role: Psychotherapist and supervisor in private practice
-avatar_filename: avatar
+avatar_filename: avatar.png
 bio: I am interested in how we come to be who we are, how we adapt to our early
   environment, and the lasting impact this can have.
 social:
