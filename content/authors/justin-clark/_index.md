@@ -31,8 +31,8 @@ education:
       year: 2013
 
 links:
-  name: For psychotherapy and supervision
-  url: 'https://www.therapynottingham.co.uk'
+  - name: For psychotherapy and supervision
+    url: 'https://www.therapynottingham.co.uk'
   
 superuser: true
 ---
