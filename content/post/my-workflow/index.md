@@ -3,6 +3,12 @@ title: My Workflow
 date: 2020-06-29T13:07:35.854Z
 draft: false
 featured: false
+tags:
+  - workflow
+  - zettlr
+  - zotero
+categories:
+  - productivity
 image:
   filename: featured.jpg
   focal_point: Smart
