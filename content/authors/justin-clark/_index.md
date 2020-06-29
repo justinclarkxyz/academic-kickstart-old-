@@ -14,6 +14,9 @@ interests:
 - Personality disorders
 
 social:
+  - link: "tel:+44(0)7519 821746"
+    icon_pack: fas
+    icon: mobile-alt
   - link: "#contact"
     icon_pack: fas
     icon: envelope
