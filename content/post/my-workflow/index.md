@@ -107,7 +107,7 @@ A chapter summary may also include links to ideas or themes that appear elsewher
 ### Notes for ideas
 
 As is the Zettelkasten way, each idea (or theme) gets it's own Zettlr note, using the same template as before.  As with the Book note, I also cite the book in the idea note (with additionally page or chapter references for specificity), which keeps things tied together.
-Ideas are the building blocks of my zettelkasten, and so I am likley to be make connections in this new idea across different notes that already exist.  Maybe they coalesce and form a more consolidated idea or theme, maybe they spark a whole new concept (and so a whole new note).
+Ideas are the building blocks of my zettelkasten, and so I am likley to make connections in this new idea across different notes that already exist.  Maybe they coalesce and form a more consolidated idea or theme, maybe they spark a whole new concept (and so a whole new note).
 
 ## Write the review
 
