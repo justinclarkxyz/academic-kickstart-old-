@@ -30,6 +30,10 @@ education:
       institution: Sherwood Psychotherapy Training Institute
       year: 2013
 
+links:
+  name: For psychotherapy and supervision
+  url: 'https://www.therapynottingham.co.uk'
+  
 superuser: true
 ---
 Justin Clark is an Integrative psychotherapist and supervior with a private practice in Nottingam, UK.
