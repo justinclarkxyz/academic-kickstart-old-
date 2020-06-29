@@ -9,7 +9,7 @@ image:
   preview_only: false
   alt_text: arrows
 ---
-Following some discussions over on the Zettlr forum I'm attempting to write up my workflow in some kind of coherent fashion.  In the spirit of "working with the garage door open" I'm using a task that I'm working on right now.  In stepping through the process, then my workflow will become clearer (to me, as well as you).  As the genesis of this was to expand on how I use [Zettlr](https://www.zettlr.com), I hope that this will also be adequately addressed and prove helpful for others.  On this note, I am not in any way an expert on Zettlr, or [Zettelkasten](https://zettelkasten.de).  I'm relatively new to this way of working and learning as I go, but so far it seems to be helping me a lot.
+Following some discussions over on the [Zettlr forum](https://forum.zettlr.com/discussions) I'm attempting to write up my workflow in some kind of coherent fashion.  In the spirit of "working with the garage door open" I'm using a task that I'm working on right now.  In stepping through the process, then my workflow will become clearer (to me, as well as you).  As the genesis of this was to expand on how I use [Zettlr](https://www.zettlr.com), I hope that this will also be adequately addressed and prove helpful for others.  On this note, I am not in any way an expert on Zettlr, or [Zettelkasten](https://zettelkasten.de).  I'm relatively new to this way of working and learning as I go, but so far it seems to be helping me a lot.
 
 ## The task
 
