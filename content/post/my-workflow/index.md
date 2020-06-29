@@ -116,5 +116,3 @@ Now I can begin to write the review.  I usually link any notes that i want to in
 ## Tidy up
 
 When it's done, and therefor no-longer a current piece of work, I will remove the book review note from the \[[§ Now]] note.
-
-## References
