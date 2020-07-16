@@ -20,7 +20,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 - name: "Information Pack"
-  url: BPD_research_information_pack
+  url: project/bpd_research/BPD_research_information_pack.pdf
 
 url_code: ""
 url_pdf: ""
