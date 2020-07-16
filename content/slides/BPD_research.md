@@ -1,7 +1,6 @@
 ---
 title: Borderline Personality Disorder Research Project Information
-summary: From Diagnosis Towards a Developmental and Relational approach to Borderline Personality Disorder
-How Integrative psychotherapists work with clients with a diagnosis of Borderline Personality Disorder.
+summary: From Diagnosis Towards a Developmental and Relational approach to Borderline Personality Disorder.  How Integrative psychotherapists work with clients with a diagnosis of Borderline Personality Disorder.
 authors: []
 tags: []
 categories: []
