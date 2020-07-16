@@ -29,7 +29,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: BPD_research
 ---
 ## From Diagnosis Towards a Developmental and Relational approach to Borderline Personality Disorder
 ## _How Integrative psychotherapists work with clients with a diagnosis of Borderline Personality Disorder._
