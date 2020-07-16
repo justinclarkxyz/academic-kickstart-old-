@@ -57,4 +57,4 @@ This study will be conducted within the SPTI Ethical Guidelines for Counselling 
 
 ### Want to be involved?
 
-There are links above for more detailed inforation about the project, and please [get in touch](#contact) with me if you are interested in taking part.
+There are links above for more detailed inforation about the project, and please [get in touch](https://www.justinclark.xyz#contact) with me if you are interested in taking part.
