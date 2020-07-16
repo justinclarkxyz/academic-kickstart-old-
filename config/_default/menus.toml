@@ -16,7 +16,7 @@
 [[main]]
   name = "Research"
   url = "#projects"
-  Weight = 30
+  weight = 30
 
 [[main]]
   name = "Contact"
