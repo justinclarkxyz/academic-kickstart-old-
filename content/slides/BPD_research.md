@@ -15,7 +15,7 @@ slides:
 
 # From Diagnosis Towards a Developmental and Relational approach to Borderline Personality Disorder
 
-## How Integrative psychotherapists work with clients with a diagnosis of Borderline Personality Disorder
+How Integrative psychotherapists work with clients with a diagnosis of Borderline Personality Disorder
 
 ---
 
@@ -28,6 +28,9 @@ How do Integrative psychotherapists, in the early stages of therapy, work with c
 ## Taking part
 
 I am asking you to participate in a grounded theory research project that will aim to explore your work with clients who have a diagnosis of Borderline Personality Disorder.
+
+---
+
 This research project will form my dissertation for my final year of study of my MSc in Integrative Psychotherapy at the Sherwood Psychotherapy Training Institute (SPTI). Following successful completion of the master’s degree, and if accepted and with your consent, your involvement will also contribute to a peer-reviewed journal article.
 
 ---
@@ -40,13 +43,23 @@ This study will be conducted within the SPTI Ethical Guidelines for Counselling 
 
 ## What Will Happen?
 
-Being a research participant within this study will require you to undertake a 1:1 interview with myself, the researcher. As the interviews are later transcribed and analysed by myself, there may be further contact from me to clarify or explore further any emerging themes. This could include additional recorded interviews or communication and discussion by email.
+Being a research participant within this study will require you to undertake a 1:1 interview with myself, the researcher.
+
+---
+
+As the interviews are later transcribed and analysed by myself, there may be further contact from me to clarify or explore further any emerging themes. This could include additional recorded interviews or communication and discussion by email.
 
 ---
 
 ## Where?
 
-Interviews will take place either at my private practice in Nottingham city centre, or another suitable location mutually agreed between us. Alternatively, interviews can be held online using video conferencing software (Zoom - see www.zoom.us for further information about this software). A convenient time and date will be agreed between us, and the interview will be electronically recorded on a digital voice recording device or using the video conferencing software if we are meeting online. The interview will be approximately 1 hour in duration. 
+Interviews will take place either at my private practice in Nottingham city centre, or another suitable location mutually agreed between us. Alternatively, (and currently more likely due to coronavirus) interviews can be held online using video conferencing software (Zoom - see www.zoom.us for further information about this software).
+
+---
+
+## When?
+
+A convenient time and date will be agreed between us, and the interview will be electronically recorded on a digital voice recording device or using the video conferencing software if we are meeting online. The interview will be approximately 1 hour in duration. 
 
 ---
 
@@ -57,8 +70,6 @@ I will be asking you about your work with clients who have a diagnosis of Border
 ---
 
 ## Questions
-
-You may find it useful to consider the following areas beforehand:
 
 - How do you conceptualise the Borderline Personality Disorder Diagnosis?
 - What theories inform your conceptualisation?
@@ -73,7 +84,11 @@ You may find it useful to consider the following areas beforehand:
 
 You have the right to withdraw your consent to use your interview transcript at any time up to 31st December 2020. If you decide this, the transcript and recordings will be destroyed confidentially and safely in line with SPTI and BACP Ethical Guidelines, and none of your information will be used in the published research.
 
-After this date, it will not be possible to remove your data from the research analysis completely, however you can withdraw from any further involvement at any time. 
+---
+
+## After the cut-off date
+
+After 31st December 2020, it will not be possible to remove your data from the research analysis completely, however you can withdraw from any further involvement at any time. 
 A copy of the final research project can also be sent to you once completed, at your request. 
 
 ---
@@ -88,6 +103,8 @@ The research project will require you to attend one interview of approximately 1
 
 Your participation in this research project is entirely voluntary.
 You can decide to stop being a part of the research study at any time, and you will not need to offer any explanation.
+
+---
 
 At any time up to 31st December 2020, you may request that any data you have supplied be withdrawn and destroyed, which will be done so in line with SPTI and BACP Ethical Guidelines. After this time, your data will not be removed from the study, but any future involvement will cease.
 
@@ -116,6 +133,10 @@ The final research project with all of your identifiable information removed, on
 ## Further Publication
 
 Following successful completion of the master’s degree, and if accepted and your consent received, your involvement will also contribute to a peer-reviewed journal article.
+
+---
+
+## Data Retention
 
 Your anonymised transcripts will need to be retained by myself as the researcher until the date after which the examining board have sat in 2021. For journal publication, your transcripts will be retained for a further twelve months. Transcripts will then be destroyed confidentially in line with the SPTI and BACP ethical guidelines.
 
