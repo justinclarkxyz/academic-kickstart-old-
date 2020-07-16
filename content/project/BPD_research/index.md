@@ -19,10 +19,14 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
+- name: "Information Pack"
+  url: BPD_research_information_pack
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
