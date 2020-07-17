@@ -40,4 +40,4 @@ If you are interested in taking part or have any questions about the research th
 
 - [More information is available here](https://www.justinclark.xyz/project/bpd_research/)
 - Email: [justin@justinclark.xyz](mailto:justin@justinclark.xyz?subject=BPD%20Research%20Project)
-- Tel: [++44(0)115 7722 132](tel:00441157722132)
+- Tel: [+44(0)115 7722 132](tel:00441157722132)
