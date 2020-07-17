@@ -11,7 +11,8 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "BPD_research"
+  
 ---
 
 <form name="BPD_research_consent" method="POST" data-netlify="true" data-netlify-recaptcha="true">
@@ -24,7 +25,7 @@ header:
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
   <p>
-    <label for="Telephone">Enter your phone number: <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"></label>
+    <label for="Telephone">Telephone number: <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"></label>
   <p>
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
