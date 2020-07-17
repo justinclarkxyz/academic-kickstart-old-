@@ -10,10 +10,13 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "BPD Research Project"
   image: "BPD_research.jpg"
   
 ---
+# From Diagnosis Towards a Developmental and Relational approach to Borderline Personality Disorder
+
+## _How Integrative psychotherapists work with clients with a diagnosis of Borderline Personality Disorder._
 
 <form name="BPD_research_consent" method="POST" data-netlify="true" data-netlify-recaptcha="true">
   <p>
