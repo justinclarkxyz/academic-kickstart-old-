@@ -21,7 +21,10 @@ links:
 #  url: https://twitter.com/georgecushen
 - name: "Information Pack"
   url: project/bpd_research/BPD_research_information_pack.pdf
-
+- name: "Poster"
+  url: project/bpd_research/BPD_research_poster.pdf
+- name: "Consent Form"
+  url: project/bpd_research/BPD_research_consent_form.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
