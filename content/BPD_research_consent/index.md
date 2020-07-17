@@ -16,9 +16,9 @@ header:
 
 <form name="BPD_research_consent" method="POST" data-netlify="true" data-netlify-recaptcha="true">
   <p>
-  By completing and submitting this form, you are agreeing to contribute your data to the research component for my MSc Integrative Psychotherapy dissertation at the Sherwood Psychotherapy Training Institute (SPTI), and for the preparation of the research findings for publication in a peer-reviewed journal (if indicated below).
+  By completing and submitting this form, you are agreeing to contribute your data to the research component for my MSc Integrative Psychotherapy dissertation at the Sherwood Psychotherapy Training Institute (SPTI), and for the preparation of the research findings for publication in a peer-reviewed journal (if indicated below).<br/>
   <br/>
-  You are also signing to indicate that (please tick the applicable boxes below):
+  You are also signing to indicate that (please tick all applicable boxes below):
   </p>
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
