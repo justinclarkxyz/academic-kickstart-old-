@@ -3,7 +3,7 @@ title: From Diagnosis Towards A Developmental And Relational Approach To
   Borderline Personality Disorder
 subtitle: ""
 date: 2020-07-17T07:28:23.321Z
-draft: true
+draft: false
 featured: false
 authors:
   - Justin Clark
@@ -11,7 +11,6 @@ tags:
   - Borderline Personality Disorder
 categories:
   - Research
-  - Borderline Personality Disorder
 projects:
   - BPD_research
 image:
