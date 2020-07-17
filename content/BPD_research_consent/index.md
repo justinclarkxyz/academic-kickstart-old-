@@ -14,10 +14,7 @@ header:
   image: ""
 ---
 
-<form name="BPD_research_consent" method="POST" data-netlify="true" netlify-honeypot="test-field">
-  <p class="hidden">
-  <label>Not for you: <input name="test-field" /></label>
-  </p>
+<form name="BPD_research_consent" method="POST" data-netlify="true" data-netlify-recaptcha="true">
   <p>
   By completing and submitting this form, you are agreeing to contribute your data to the research component for my MSc Integrative Psychotherapy dissertation at the Sherwood Psychotherapy Training Institute (SPTI), and for the preparation of the research findings for publication in a peer-reviewed journal (if indicated below).
   <br/>
@@ -87,6 +84,9 @@ header:
   <p>
   <label for="date">Date:</label>
   <input type="date" id="date" name="date">
+  </p>
+  <p>
+  <div data-netlify-recaptcha="true"></div>
   </p>
   <p>
     <button type="submit">Send</button>
