@@ -25,6 +25,8 @@ links:
   url: project/bpd_research/BPD_research_poster.pdf
 - name: "Consent Form"
   url: project/bpd_research/BPD_research_consent_form.pdf
+- name: "Online Consent Form"
+  url: project/bpd_research/BPD_research_consent_form.md
 url_code: ""
 url_pdf: ""
 url_slides: ""
