@@ -55,4 +55,4 @@ Part blog, part extension of my thinking, and part unspecified.
 
 ---
 ## If you are looking for psychotherapy or supervision
-Head over to [Therapy Nottingham](https://www.therapynotitngham.co.uk) where you can read more about me as a therapist, how I work, and book an assessment session online.
+Head over to [Therapy Nottingham](https://www.therapynottingham.co.uk) where you can read more about me as a therapist, how I work, and book an assessment session online.
