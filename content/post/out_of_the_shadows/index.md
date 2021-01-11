@@ -10,8 +10,6 @@ tags:
   - Book Review
 categories:
   - Book Review
-projects:
-  - 
 image:
   filename: featured.jpg
   focal_point: Center
