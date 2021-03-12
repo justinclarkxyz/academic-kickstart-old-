@@ -44,7 +44,7 @@ contact_links:
     link: 'https://twitter.com/justinclarkxyz'
   - icon: mobile-alt
     icon_pack: fas
-    name: Mobile: +44(0)7519 821 746
+    name: Mobile: '+44(0)7519 821 746'
     link: 'tel:00447519821746'
   - icon: comment-dots
     icon_pack: fas
