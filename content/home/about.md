@@ -53,5 +53,5 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     #text_color_light: true
   # Text color (true=light or false=dark).
-  text_color_light = true
+  #text_color_light = true
 ---
