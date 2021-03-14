@@ -1,6 +1,6 @@
 [build]
   #command = "hugo --gc --minify -b $URL"
-  command = "env WC_POST_CSS=\"true\" hugo --gc --minify -b $URL"
+  command = "env WC_POST_CSS=\"true\" hugo server --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
